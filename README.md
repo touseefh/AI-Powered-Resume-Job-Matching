@@ -70,4 +70,8 @@ streamlit run app.py
 - **More Job Filters**: Industry-specific weightage, salary range, remote/hybrid jobs.
 - **Dashboard for HR**: Visual analytics of job postings and applicant tracking.
 - **Database Integration**: Use a database instead of in-memory storage.
+---
+
+## Author
+Developed by **HireSync.ai** 🚀
 
