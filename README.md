@@ -15,7 +15,7 @@ HireSync.ai is an AI-powered resume and job matching platform that leverages **F
 
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.8+
+- Python 3.10+
 - pip (Python package manager)
 
 ### Step 1: Clone the Repository
