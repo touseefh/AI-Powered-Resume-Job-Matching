@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Configure Google Gemini AI
-genai.configure(api_key="Enter Your API Key")
+genai.configure(api_key="YOUR_API_KEY_HERE")
 
 # Load Sentence Transformer Model
 embedder = SentenceTransformer("bert-base-nli-mean-tokens")
